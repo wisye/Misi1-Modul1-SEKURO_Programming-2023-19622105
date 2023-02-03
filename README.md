@@ -1,5 +1,19 @@
 # Misi 1 Modul 1
 
+## Identitas
+
+Nama: Wisyendra Lunarmalam
+NIM: 19622105
+Fakultas: STEI-K
+
+## Pengalaman Programming di Bidang Robotika
+
+Tidak ada sama sekali
+
+## Harapan Setelah Mengikuti SEKURO
+
+I want to become so powerful at robotics i'd isekai the truck kun instead
+
 ## Video 1
 
 Video 1 menjelaskan tentang perbedaan git dengan github. Dapat disimpulkan bahwa github adalah suatu service di internet dengan dasar git sementara git adalah version control system untuk me-manage semua code yang ada seperti suatu folder. Ada beberapa istilah yang telah dijelaskan seperti repository "folder project", commit, hash, checkout, branch, pull, push, etc
